@@ -38,12 +38,15 @@ _Our team worked collaboratively, dividing tasks efficiently to cover different 
 **Research & Analysis:**
 
 We analyzed real insurance data and business rules to make our database realistic.
+
 **Database Design:**
 
 Worked together to refine the ERD and establish relationships between entities.
+
 **SQL Implementation:**
 
 Each team member contributed to creating tables, inserting data, and applying constraints.
+
 **Testing & Debugging:**
 
 We collectively tested queries and resolved issues to ensure data consistency and accuracy.
@@ -51,9 +54,11 @@ We collectively tested queries and resolved issues to ensure data consistency an
 **Data Structuring:**
 
 Ensuring proper relationships and applying normalization required multiple iterations and refinements.
+
 **Constraint Management:**
 
 Adding appropriate constraints without limiting functionality was carefully planned.
+
 **Query Optimization:**
 
 Fine-tuned queries to enhance performance and retrieval efficiency.
