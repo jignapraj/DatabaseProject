@@ -28,6 +28,7 @@ Added constraints such as PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL, and CHECK 
 **Backend Development:**
 
 Developed queries and procedures to interact with the database efficiently.
+
 **Testing & Validation:**
 
 Executed SQL queries to verify the correctness of database transactions and ensure reliability.
