@@ -1,4 +1,3 @@
-# DatabaseProject
 # Insurance Company Database Project
 # Project Overview
 _This project focuses on designing and implementing a relational database system for an insurance company. Our goal was to create a structured and efficient database that mimics real-world insurance operations, including policy management, invoicing, and data integrity enforcement._
